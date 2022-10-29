@@ -1,16 +1,7 @@
-# instagram
+# Tugas Image & Text Input
 
-A new Flutter project.
+<img width="239" alt="Screenshot (693)" src="https://user-images.githubusercontent.com/116758794/198812994-42987f4b-1b3b-4a69-b0d2-5ee637688316.png">
 
-## Getting Started
+<img width="241" alt="Screenshot (691)" src="https://user-images.githubusercontent.com/116758794/198812999-e9fb0005-c016-4313-8598-ec50bb8a376d.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="241" alt="Screenshot (692)" src="https://user-images.githubusercontent.com/116758794/198813011-a1db1621-f3cb-4eff-b1ad-af7765481068.png">
